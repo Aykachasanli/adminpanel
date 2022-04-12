@@ -1,0 +1,400 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
+.navbar{
+    height: 200vh;
+    width: 5%;
+    background-color: #2a3042;
+}
+.logo img{
+width: 20px;
+height: 20px;
+margin-left: 25px;
+margin-top: 20px;
+}
+
+
+.megamenu{
+    width: 95%;
+    height: 70px;
+    justify-content: space-between;
+}
+.menu1{
+    margin-top: 15px;
+}
+.menu1 i{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.856);
+}
+
+.menu1 input{
+   height: 40px; 
+   width: 200px;
+   border-radius: 12px;
+   background-color: #f3f3f9;
+   border: 1px solid #f3f3f9;
+   margin-left: 20px;
+}
+.menu1 h4{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.658);
+}
+
+.flag img{
+width: 30px;
+height: 24px;
+margin-right: 50px;
+margin-top: 4px;
+}
+.avatar img{
+    width: 35px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.menu2 h4{
+    color: rgba(0, 0, 0, 0.541);
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.scren img{
+margin-left: -30px;
+}
+.customer{
+    margin-left: 20px;
+}
+.menu2{
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 750px;
+
+}
+
+.bell img{
+    width: 30px;
+    height: 33px;
+    margin-left: 20px;
+}
+.carx img{
+    width: 30px;
+    margin-left: 0px;
+}
+/* end megamenu */
+
+.content{
+    background-color: #ced4da52;
+    margin-top: 20px;
+    height: 150vh;
+    
+}
+.textdash{
+    justify-content: space-between;
+    
+}
+.textdash h3, h4{
+    margin: 20px 23px 0px 23px;
+}
+.bigbox{
+    justify-content: space-between;
+}
+.leftbox{
+    width: 30%;
+    margin-left: 25px;
+    margin-top: 6px;
+    
+    
+}
+.lbox1{
+border-radius: 10px;
+}
+.rightbox{
+    width: 65%;
+    margin-left: 30px;
+    margin-top: 25px;
+
+}
+.lboox1{
+    background-color: rgba(85,110,230,.25)!important;
+    margin-top: 20px;
+    border-radius: 5px;
+    
+}
+.lbox1 img{
+width: 200px;
+margin-left: 230px;
+margin-top: -40px;
+}
+.lbox1 h3{
+    margin-left:20px;
+    color: #556ee6;
+}
+.lbox1 h4{
+    margin-top: -1px;
+    color: #556ee6;
+}
+.lboox2{
+    background-color: white;
+    height: 150px;
+}
+
+.lboox2 img{
+    border-radius: 50%;
+    width: 80px;
+    margin-left: 25px;   
+}
+.liler ul{
+    margin-left: 135px;
+    margin-top: -20px;
+    color: rgba(0, 0, 0, 0.842);
+}
+.lboox2 button{
+    background-color: transparent;
+    background-color: #556ee6;
+    border-radius: 5px;
+    border: 1px solid #556ee6;
+    color: white;
+    width: 110px;
+    height: 30px;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+/* lbox end */
+
+.lbox2{
+        border-radius: 5px;
+        background-color: white;
+        width: 436px;
+        height: 260px;
+        margin-top: 23px;
+}.llbox1 h4{
+color: rgba(0, 0, 0, 0.527);
+}
+.llbox1 h3, h2{
+margin-left: 25px;
+color: rgba(0, 0, 0, 0.76);
+margin-top: 20px;
+}
+.lbox2 h1{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.671);
+
+}
+.llbox2 img{
+margin-top: 20px;
+}
+
+
+
+
+
+/* left end */
+
+/* right start */
+.rbox1{
+    width: 300px;
+    height: 110px;
+    background-color: white;
+    border-radius: 3px;
+}
+.birinci{
+    justify-content: space-between;
+}
+.yazilar h4{
+
+color: rgba(0, 0, 0, 0.582);
+}
+.yazilar h3{
+    color: rgba(0, 0, 0, 0.747);
+    margin-left: 23px;
+    margin-top: 25px;
+}
+.yazilar2 button{
+    width: 50px;
+    height: 50px;
+    background-color: #556de6c2;
+    border-radius: 50%;
+    border: 1px solid #556de6c2;
+    margin-top: 25px;
+    margin-left: 130px;
+}
+/* birinci end */
+
+.chart img{
+    width: 100%;
+    margin-top: 20px;
+}
+.end{
+    width: 97%;
+    margin: 0px auto;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.card1{
+    width: 32%;
+    height: 55vh;
+    border-radius: 5px;
+    background-color: white;
+    margin-right: 15px;
+    position: relative;
+}
+.card1 h1{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.747);
+    margin: 20px 0px 0px 20px;
+}
+.card1 span{
+    width: 50px;
+    background-color: #556de64d;
+    border-radius: 50%;
+    height: 50px;
+    position: absolute;
+    border: 0px solid #556de64d;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.card1 img{
+    width: 30px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.card1 h2{
+    margin: 130px 0px 0px 100px;
+}
+.card1 p{
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.815);
+}
+.card1 h4{
+    margin-left: 160px;
+    color: rgba(0, 0, 0, 0.74);
+}
+.card2{
+    width: 32%;
+    height: 60vh;
+    border-radius: 5px;
+    background-color: white;
+}
+.card2 h1{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.747);
+    margin: 20px 0px 0px 20px; 
+}
+.bigli{
+    justify-content: space-around;
+}
+
+.liler1 ul li{
+    margin-top: 50px;
+}
+.liler2 ul li{
+    margin-top: 48px;
+}
+.card2 button{
+    background-color: transparent;
+    background-color: #556ee6;
+    border-radius: 5px;
+    border: 1px solid #556ee6;
+    color: white;
+    width: 110px;
+    height: 30px;
+    margin-left: 145px;
+    margin-top: 40px;
+}
+
+.card3{
+    width: 32%;
+    height: 60vh;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 15px;
+}
+.card3 h1{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.747);
+    margin: 20px 0px 0px 20px; 
+}
+.uclu{
+    text-align: center;
+    margin-top: 150px;
+}
+.uclu h6{
+    margin-left: 25px;
+    margin-top: 10px;
+
+}
+.div1{
+    justify-content: space-around;
+}
+.div1 h5{
+    margin-top: 33px;
+}
+.div1 h4{
+    margin-top: 30px;
+}
+.blue{
+width: 150px;
+    height: 6px;
+    background-color: #556ee6;
+    border-radius: 3px;
+    margin-top: 37px;
+}
+hr{
+    margin-top: 20px;
+}
+
+.div2{
+    justify-content: space-around;
+}
+.div2 h5{
+    margin-top: 33px;
+}
+.div2 h4{
+    margin-top: 30px;
+}
+.green{
+width: 130px;
+    height: 6px;
+    background-color: rgb(47, 255, 109);
+    border-radius: 3px;
+    margin-top: 37px;
+    margin-right: 20px;
+}
+
+.div3{
+    justify-content: space-around;
+}
+.div3 h5{
+    margin-top: 33px;
+}
+.div3 h4{
+    margin-top: 30px;
+}
+.golden{
+width: 110px;
+    height: 6px;
+    background-color: goldenrod;
+    border-radius: 3px;
+    margin-top: 37px;
+    margin-right: 35px;
+}
+
+
+
+
+
+
+
